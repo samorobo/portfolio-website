@@ -32,7 +32,7 @@ const portfolioProjects = [
     {
         company: "my personal project",
         year: "2024",
-        title: "Casecobra - A web app for booking doctor's appointment",
+        title: "CarePulse - A web app for booking doctor's appointment",
         results: [
             {title: "Enhanced user experience by 40%"},
             {title: "Improved site speed by 50%"},
@@ -44,7 +44,7 @@ const portfolioProjects = [
     {
         company: "MY tech team",
         year: "2024",
-        title: "Casecobra - A constrution company website",
+        title: "Chalonic - A constrution company website",
         results: [
             {title: "Enhanced user experience by 40%"},
             {title: "Improved site speed by 50%"},
