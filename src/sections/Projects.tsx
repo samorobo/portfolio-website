@@ -18,16 +18,16 @@ const portfolioProjects = [
         image: "/casecobra.PNG"
     },
     {
-        company: "my personal project",
+        company: "Acefood",
         year: "2024",
-        title: "Dropbox clone - A web app for storing file",
+        title: "Acefood Uk - An e-commerce website for foodstuffs",
         results: [
             {title: "Enhanced user experience by 40%"},
             {title: "Improved site speed by 50%"},
             {title: "Increased mobile traffic by 35%"}
         ],
-        link: "https://dropbox-clone-rosy.vercel.app/dashboard",
-        image: "/dropbox-pics.PNG"
+        link: "https://www.acefoods.co.uk",
+        image: "/acefood.PNG"
     },
     {
         company: "my personal project",
