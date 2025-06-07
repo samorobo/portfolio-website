@@ -20,7 +20,7 @@ const portfolioProjects = [
     {
         company: "Acefood",
         year: "2024",
-        title: "Acefood Uk - An e-commerce website for foodstuffs",
+        title: "Afrigold - An e-commerce website for foodstuffs",
         results: [
             {title: "Enhanced user experience by 40%"},
             {title: "Improved site speed by 50%"},
