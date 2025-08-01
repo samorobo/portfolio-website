@@ -42,7 +42,7 @@ const portfolioProjects = [
         image: "/carePulse-reg.PNG"
     },
     {
-        company: "MY tech team",
+        company: "Freelance",
         year: "2024",
         title: "Chalonic - A constrution company website",
         results: [
@@ -52,6 +52,18 @@ const portfolioProjects = [
         ],
         link: "https://chalonic.vercel.app/about",
         image: "/chalonics.PNG"
+    },
+    {
+        company: "My Personal Project",
+        year: "2025",
+        title: "Learnlyapp - A cartoon based Game app",
+        results: [
+            {title: "Enhanced user experience by 40%"},
+            {title: "Improved site speed by 50%"},
+            {title: "Increased mobile traffic by 35%"}
+        ],
+        link: "https://learnlyapp.vercel.app/",
+        image: "/Learnlyapp-game.PNG"
     },
 ]
 
