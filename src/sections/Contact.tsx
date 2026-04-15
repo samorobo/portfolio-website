@@ -15,10 +15,10 @@ export const ContactSection = () => {
                 Ready to bring your next project to life? Let's connect and discuss how i can help you achieve your goals.</p>
                 </div>
                 <div className="">
-            <button className="text-white bg-gray-900 inline-flex items-center px-6 h-12 rounded-xl gap-2 w-max border border-gray-900">
+            <a href="mailto:samgodwin111@gmail.com" className="text-white bg-gray-900 inline-flex items-center px-6 h-12 rounded-xl gap-2 w-max border border-gray-900">
                 <span className="font-semibold">Contact Me</span>
                  <ArrowUpRightIcon className="size-4" />
-                </button>
+                </a>
                 </div>
                 </div>
                 </div>
