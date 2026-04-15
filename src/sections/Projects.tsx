@@ -6,16 +6,76 @@ import Image from "next/image"
 
 const portfolioProjects = [
     {
-        company: "my personal project",
-        year: "2024",
-        title: "case cobra - A phone case customizer",
+        company: "EGA Tech - Gridiron",
+        year: "2026",
+        title: "A cloud platform for managing and providing cloud infastructures to customers",
         results: [
-            {title: "Boosted sales by 20%"},
+            {title: "Boosted sales by 40%"},
+            {title: "Expanded customer reach by 35%"},
+            {title: "Increased brand awareness by 45%"}
+        ],
+        link: "https://auto.gridiron-app.com/",
+        image: "/gridauto.png"
+    },
+    {
+        company: "EGA Tech - Upskill platform",
+        year: "2026",
+        title: "A platform that with diverse ranges of tech courses to help companies staff up skill",
+        results: [
+            {title: "Boosted Sales by 50%"},
+            {title: "Expanded customer reach by 35%"},
+            {title: "Increased brand awareness and sales by 25%"}
+        ],
+        link: "https://upskill.ega-knowledge.com/",
+        image: "/upskill.png"
+    },
+    {
+        company: "Drbridge",
+        year: "2025",
+        title: "A platform that manages doctors and specialists information",
+        results: [
+            {title: "Boosted Sales by 50%"},
+            {title: "Expanded customer reach by 35%"},
+            {title: "Increased brand awareness and sales by 25%"}
+        ],
+        link: "https://drbridge.co.in/",
+        image: "/Drbridge.png"
+    },
+    {
+        company: "Fourem",
+        year: "2025",
+        title: "A real estate website portfolio",
+        results: [
+            {title: "Boosted Sales by 22%"},
+            {title: "Expanded customer reach by 15%"},
+            {title: "Increased brand awareness and sales by 25%"}
+        ],
+        link: "https://fourem-personal.vercel.app/",
+        image: "/fourem.png"
+    },
+    {
+        company: "Coupoun",
+        year: "2025",
+        title: "An ecommerce website for redeeming deals and active coupouns",
+        results: [
+            {title: "Boosted onboarding by 30%"},
+            {title: "Expanded customer reach by 35%"},
+            {title: "Increased brand awareness by 35%"}
+        ],
+        link: "https://coupon-production-ea9a.up.railway.app/",
+        image: "/coupoun.png"
+    },
+    {
+        company: "Migoo",
+        year: "2025",
+        title: "An app that tutor Jewish speaker in english",
+        results: [
+            {title: "Boosted onboarding by 20%"},
             {title: "Expanded customer reach by 35%"},
             {title: "Increased brand awareness by 15%"}
         ],
-        link: "https://casecobra-lovat.vercel.app/",
-        image: "/casecobra.PNG"
+        link: "/",
+        image: "/migoo.png"
     },
     {
         company: "Acefood",
