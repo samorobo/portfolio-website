@@ -63,7 +63,7 @@ const portfolioProjects = [
             {title: "Increased brand awareness by 35%"}
         ],
         link: "https://coupon-production-ea9a.up.railway.app/",
-        image: "/coupoun.png"
+        image: "/coupon.png"
     },
     {
         company: "Migoo",
